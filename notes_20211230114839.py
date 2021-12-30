@@ -1,4 +1,4 @@
- "# ctree" >> n=30
+n=30
 for i in range(1,n+1):
     print(' '*(n-i)+'* '*i)
 for i in range(int(n*0.45)):
