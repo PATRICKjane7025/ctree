@@ -1,5 +1,4 @@
-12.30 11:48 AM
-echo "# ctree" >> n=30
+ "# ctree" >> n=30
 for i in range(1,n+1):
     print(' '*(n-i)+'* '*i)
 for i in range(int(n*0.45)):
@@ -10,9 +9,9 @@ for i in range(n):
     print('_ ',end='')
 print()
 print()
-print('~~~~~~~~~~~~HAPPY CHRISTMAS~~~~~~~~~~~~')
+print('~~~~~~~~~~~~HAPPY CHRISTMAS🔆🔆.~~~~~~~~~~~~')
 print('~~~~~~~~~~~~~~~~~~AND~~~~~~~~~~~~~~~~~~')
-print('~~~~~~~~~~~~~HAPPY NEWYEAR~~~~~~~~~~~~~')
+print('~~~~~~~~~~~~~HAPPY NEWYEAR🔆~~~~~~~~~~~~~')
 print('Created by '
       'ARAVIND RATHEESH -- '
       'S5  ME -- '
